@@ -1,0 +1,164 @@
+.btss-backend-sidebar {
+	display: inline-block;
+	float: right;
+	width: 20%
+}
+
+.btss-backend-sidebar .thumbnail {
+	padding: 12px;
+	line-height: 1.4em;
+	font-size: 13px;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+	background: #fff;
+	margin-bottom: 20px
+}
+
+form.btif-settings-form {
+	background: #fff;
+	padding: 10px;
+	width: 78%;
+	float: left
+}
+
+.thumbnail-review {
+	background: #fff;
+	padding: 12px;
+	margin: 0
+}
+
+.btif-option-field-wrap label {
+	margin: 10px 15px 10px 0;
+	display: inline-block;
+	font-weight: 600
+}
+
+.btif-inner-wrap .nav-tab-active,
+.btif-inner-wrap .nav-tab-active:focus,
+.btif-inner-wrap .nav-tab-active:focus:active,
+.btif-inner-wrap .nav-tab-active:hover {
+	border-bottom: 1px solid #fff;
+	background: #fff;
+	color: #000
+}
+
+.btif-inner-wrap {
+	background: #fff;
+	width: 77.5%;
+	float: left;
+	padding: 15px;
+	border: 1px solid #ddd
+}
+
+.blossomthemes-instagram-feed-settings {
+	display: none
+}
+
+.blossomthemes-instagram-feed-settings.general {
+	display: block
+}
+
+div#blossomthemes-instagram-feed-settings-usage .shortcode-usage {
+	width: 30%
+}
+
+.btif-option-field-wrap label {
+	width: 150px;
+	padding-right: 20px;
+	margin: 0
+}
+
+.btif-option-field-wrap input[type="text"],
+.btif-option-field-wrap input[type="number"],
+.btif-option-field-wrap select {
+	width: 320px;
+	height: 35px;
+	box-shadow: none
+}
+
+.btif-option-field-wrap {
+    margin-bottom: 25px;
+}
+
+.blossomthemes-instagram-feed-settings
+.btif-option-field-wrap:last-child {
+    display: flex;
+    flex: auto;
+    align-items: center;
+}
+
+#btif-fetch-new-posts {
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btif-fetch-new-posts-loader,
+#btif-fetch-new-posts-success,
+#btif-fetch-new-posts-failure {
+    display: inline-flex;
+}
+
+
+p.btif-description {
+	margin-left: 175px;
+	font-style: italic
+}
+
+.btif-settings-form .button-connect {
+	margin-bottom: 40px
+}
+
+.btif-settings-form .blossomthemes-instagram-feed-settings-submit {
+	border-top: 1px solid rgba(0, 0, 0, .1);
+	margin-top: 40px
+}
+
+.blossomthemes-instagram-feed-settings .btif-option-field-wrap:nth-last-of-type(2) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+/* .blossomthemes-instagram-feed-settings .btif-option-field-wrap:nth-last-of-type(2) input, 
+.blossomthemes-instagram-feed-settings .btif-option-field-wrap:nth-last-of-type(2) select {
+    margin-right: 10px;
+} */
+
+.blossomthemes-instagram-feed-settings .btif-option-field-wrap:nth-last-of-type(2) #btif-fetch-new-posts {
+    display: inline-flex;
+}
+
+/* .blossomthemes-instagram-feed-settings .btif-option-field-wrap:last-child {
+    display: block;
+} */
+
+.blossomthemes-instagram-feed-settings .btif-option-field-wrap:last-child p.btif-description {
+	margin-left: 8px;
+}
+
+.blossomthemes-instagram-feed-settings .btif-option-field-wrap{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.blossomthemes-instagram-feed-settings .btif-option-field-wrap:first-child{
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.btif-option-field-wrap input[type="checkbox"]{
+	margin-right: .25rem;
+	margin-bottom: -6px;
+}
+
+.btif-option-field-wrap p.btif-description{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.btif-option-field-wrap input[type="checkbox"] + p.btif-description{
+	margin-left: 8px;
+}

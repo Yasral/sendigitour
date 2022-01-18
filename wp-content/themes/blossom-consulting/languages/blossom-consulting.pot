@@ -1,0 +1,207 @@
+# <!=Copyright (C) 2021 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom Consulting 1.1.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/theme/blossom-consulting\n"
+"POT-Creation-Date: 2021-12-15 07:48:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:135
+msgid " Blossom Consulting | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:137
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:137
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Change the font size of your site title."
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Banner Options"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Choose banner as static image/video or as a slider."
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Disable Banner Section"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Static/Video CTA Banner"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Static/Video Newsletter Banner"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Banner as Slider"
+msgstr ""
+
+#: inc/customizer.php:78 inc/customizer.php:370 sections/banner.php:13
+msgid "The Secrets to Successful Team Leadership"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:103 inc/customizer.php:377 sections/banner.php:14
+msgid ""
+"Sally is a solution focused therapist offering brief and often single "
+"session therapy. She has built a reputation for engaging workshops on "
+"Solution Focused Brief Therapy and Single Session Therapy, and have "
+"recently started to put her courses online."
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer.php:128 inc/customizer.php:384 sections/banner.php:15
+msgid "Discover More"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Banner Label"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Banner Link"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Shop Section"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Enable Shop Section"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Enable to show shop section."
+msgstr ""
+
+#: inc/customizer.php:204 inc/customizer.php:391 sections/shop.php:8
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:229 inc/customizer.php:398
+msgid ""
+"Show your products here. You can modify this section from Appearance > "
+"Customize > Front Page Settings > Shop Section."
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Section Content"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Product One"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Product Two"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Product Three"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Product Four"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Demo & Documentation"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: sections/shop.php:9
+msgid ""
+"Show your latest blog posts here. You can modify this section from "
+"Appearance > Customize > Front Page Settings > Shop Section."
+msgstr ""
+
+#: sections/shop.php:45
+msgid "Sold Out"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blossom Consulting"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom Consulting is free child theme of Blossom Coach WordPress theme. "
+"Blossom Consulting is a perfect choice to create websites for consultants "
+"and consulting companies, coaches (life coach, health coach), speakers, "
+"business and creative agencies, content marketers, affiliate bloggers and "
+"psychologists. The theme is also multi-purpose. So you can also use it to "
+"build small business (restaurants/cafe, travel, education, hotel, "
+"construction, events, wedding planners, fitness, affiliate, fashion, "
+"lawyer, sport/medical shops, spa/temas, political), portfolio, church, "
+"online agencies and firms, charity, ecommerce (WooCommerce), and "
+"freelancers websites. It is responsive, Schema.org compatible, SEO "
+"friendly, RTL compatible, speed optimized, and translation ready. Check "
+"theme details at "
+"https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
+", demo at https://blossomthemes.com/theme-demo/?theme=blossom-consulting, "
+"read the documentation at "
+"https://docs.blossomthemes.com/docs/blossom-consulting/, and get support at "
+"https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""

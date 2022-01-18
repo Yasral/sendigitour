@@ -1,0 +1,28 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">wheel</custom-type>
+    <custom-type translate="1">wheel-submissions</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="translate">chartdata</custom-field>
+    <custom-field action="translate">wheelid</custom-field>
+    <custom-field action="translate">wheel_meta_input_type</custom-field>
+    <custom-field action="translate">wheel_meta_range_min</custom-field>
+    <custom-field action="translate">wheel_meta_range_max</custom-field>
+    <custom-field action="translate">wheel_meta_wheels_data</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="wheel_of_life_social_sharing"/>
+  </admin-texts>
+  <shortcodes>
+    <shortcode>
+      <tag>wheeloflife</tag>
+      <attributes>
+        <attribute>id</attribute>
+        <attribute>label</attribute>
+        <attribute>popup_label</attribute>
+        <attribute>mode</attribute>
+      </attributes>
+    </shortcode>
+  </shortcodes>
+</wpml-config>

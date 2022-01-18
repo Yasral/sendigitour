@@ -1,0 +1,250 @@
+# Copyright (C) 2021 blossomthemes
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: BlossomThemes Social Feed 2.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-10 07:13:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP Travel Engine\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../blossomthemes-instagram-feed\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:149
+msgid "Access Token rejected by Instagram API. Please add valid Access Token."
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:183
+msgid ""
+"BlossomThemes: Invalid or expired Instagram Access Token. Please reconnect "
+"Instagram."
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:193
+msgid "Please configure BlossomThemes Social Feed"
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:195
+msgid "If you have just installed or updated this plugin, please go to the"
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:197
+msgid "Settings Page"
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:198
+msgid "and connect it with your Instagram account."
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:199
+msgid "You can ignore this message if you have already configured it."
+msgstr ""
+
+#: admin/class-blossomthemes-instagram-feed-admin.php:200
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/partials/blossomthemes-instagram-feed-admin-display.php:19
+msgid "Title"
+msgstr ""
+
+#: admin/partials/blossomthemes-instagram-feed-admin-display.php:28
+#: includes/template/backend/general.php:52
+msgid "Username"
+msgstr ""
+
+#: admin/partials/blossomthemes-instagram-feed-admin-display.php:37
+msgid "Number of photos"
+msgstr ""
+
+#: admin/partials/blossomthemes-instagram-feed-admin-display.php:47
+#: includes/template/backend/general.php:74
+msgid "Photos Per Row"
+msgstr ""
+
+#: admin/partials/blossomthemes-instagram-feed-admin-display.php:57
+#: includes/template/backend/general.php:85
+msgid "Profile Link Text"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-api.php:167
+msgid "Every Fifty Days"
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-shortcodes.php:32
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:66
+msgid "BlossomThemes Social Feed misconfigured, check plugin &amp; widget settings."
+msgstr ""
+
+#: includes/class-blossomthemes-instagram-feed-shortcodes.php:35
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:69
+msgid "No posts available!"
+msgstr ""
+
+#: includes/template/backend/general.php:9
+#: includes/template/backend/general.php:26
+msgid "Connect with Instagram"
+msgstr ""
+
+#: includes/template/backend/general.php:11
+msgid ""
+"To get started click the button below. You’ll be prompted to authorize "
+"BlossomThemes Social Feed to access your Instagram photos."
+msgstr ""
+
+#: includes/template/backend/general.php:13
+msgid "For help, please refer to this tutorial."
+msgstr ""
+
+#: includes/template/backend/general.php:18
+msgid ""
+"Due to recent Instagram API changes it is no longer possible to display "
+"photos from a different Instagram account than yours. The widget will "
+"automatically display the latest photos of the account which was authorized "
+"on this page."
+msgstr ""
+
+#: includes/template/backend/general.php:28
+msgid "Re-connect with Instagram"
+msgstr ""
+
+#: includes/template/backend/general.php:36
+msgid "Access Token"
+msgstr ""
+
+#: includes/template/backend/general.php:45
+msgid ""
+"Access Token is used as key to access your photos from Instagram so they "
+"can be displayed."
+msgstr ""
+
+#: includes/template/backend/general.php:63
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/template/backend/general.php:96
+msgid "Check for new posts every"
+msgstr ""
+
+#: includes/template/backend/general.php:108
+msgid "Hours"
+msgstr ""
+
+#: includes/template/backend/general.php:109
+msgid "Days"
+msgstr ""
+
+#: includes/template/backend/general.php:113
+msgid "Fetch new posts"
+msgstr ""
+
+#: includes/template/backend/general.php:164
+msgid "Lazy Load"
+msgstr ""
+
+#: includes/template/backend/general.php:171
+msgid "Enable lazy loading of Instagram images."
+msgstr ""
+
+#: includes/template/backend/general.php:179
+msgid "Square Images"
+msgstr ""
+
+#: includes/template/backend/general.php:186
+msgid "Enable square Instagram images."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BlossomThemes Social Feed"
+msgstr ""
+
+#: includes/template/backend/settings.php:15
+msgid "General"
+msgstr ""
+
+#: includes/template/backend/settings.php:19
+msgid "Usage"
+msgstr ""
+
+#: includes/template/backend/sidebar.php:8
+msgid "More WordPress Themes and Plugins?"
+msgstr ""
+
+#: includes/template/backend/sidebar.php:10
+msgid "Visit us at: "
+msgstr ""
+
+#: includes/template/backend/sidebar.php:11
+msgid "Blossom Themes"
+msgstr ""
+
+#: includes/template/backend/sidebar.php:14
+msgid "Please fill free to leave us a review, if you found this plugin helpful."
+msgstr ""
+
+#: includes/template/backend/sidebar.php:15
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/template/backend/usage.php:7
+msgid "Uses"
+msgstr ""
+
+#: includes/template/backend/usage.php:10
+msgid "Display via Shortcode"
+msgstr ""
+
+#: includes/template/backend/usage.php:16
+msgid "Copy this Shortcode to display your instagram gallery in pages/posts => "
+msgstr ""
+
+#: includes/template/backend/usage.php:26
+msgid "Display via PHP Function"
+msgstr ""
+
+#: includes/template/backend/usage.php:32
+msgid "Copy the PHP Function below to display your instagram gallery in templates :"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:25
+msgid "BlossomThemes: Feed for Instagram"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:26
+msgid "A widget that displays your latest Instagram photos."
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:89
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/widget-blossomthemes-instagram-feed.php:108
+msgid ""
+"Please configure <a href=\"%1$s\">Plugin Settings</a> before using this "
+"widget."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/blossomthemes-instagram-feed"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Show instagram feed on your website using shortcode and widget."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "blossomthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com"
+msgstr ""

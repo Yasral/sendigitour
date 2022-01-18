@@ -1,0 +1,63 @@
+.popup-gallery:not(.photos-1) {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.popup-gallery.photos-2 li {
+    width: 50%;
+}
+
+.popup-gallery.photos-3 li {
+    width: 33.33%;
+}
+
+.popup-gallery.photos-4 li {
+    width: 25%;
+}
+
+.popup-gallery.photos-5 li {
+    width: 20%;
+}
+
+.popup-gallery.photos-6 li {
+    width: 16.66%;
+}
+
+.popup-gallery.photos-7 li {
+    width: 14.25%;
+}
+
+.popup-gallery.photos-8 li {
+    width: 12.5%;
+}
+
+.popup-gallery.photos-9 li {
+    width: 11.11%;
+}
+
+.popup-gallery.photos-10 li {
+    width: 10%;
+}
+
+.popup-gallery:not(.photos-1) ul li img {
+    vertical-align: top;
+}
+
+.popup-gallery.btif-square-images a{
+    display: block;
+    overflow: hidden;
+    position: relative;
+    padding-top: 100%;
+}
+
+.popup-gallery.btif-square-images a img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
